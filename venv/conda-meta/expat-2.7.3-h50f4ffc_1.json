@@ -1,0 +1,43 @@
+{
+  "build": "h50f4ffc_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=12.1",
+    "libcxx >=20",
+    "libexpat 2.7.3 h50f4ffc_1"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/expat-2.7.3-h50f4ffc_1",
+  "files": [
+    "bin/xmlwf"
+  ],
+  "fn": "expat-2.7.3-h50f4ffc_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/expat-2.7.3-h50f4ffc_1",
+    "type": 1
+  },
+  "md5": "cb56a33943c9c66502c1180e1f8805b9",
+  "name": "expat",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/expat-2.7.3-h50f4ffc_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/xmlwf",
+        "path_type": "hardlink",
+        "sha256": "207170a85168ad7461e5221a6714fe0fcef541e4cf53a2272e311eae55887bb3",
+        "sha256_in_prefix": "207170a85168ad7461e5221a6714fe0fcef541e4cf53a2272e311eae55887bb3",
+        "size_in_bytes": 91296
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8b847bc994d2caa4eccc21612acb56f97bb8ceeb199e16cb54c836d8f903d4cc",
+  "size": 16717,
+  "subdir": "osx-arm64",
+  "timestamp": 1764928845000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/expat-2.7.3-h50f4ffc_1.conda",
+  "version": "2.7.3"
+}
